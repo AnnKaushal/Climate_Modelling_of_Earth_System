@@ -3,7 +3,7 @@
 
 ## Description
 
-This Jupyter Notebook project presents a comprehensive climate modeling framework that explores the intricate interactions between various key environmental factors over an extended timeframe of 1000 years. By incorporating a robust Runge-Kutta numerical method, the simulation delves into the mutual influences of greenhouse gas concentrations, solar radiation variations, ice melting dynamics, ocean circulation patterns, and wind effects on Earth's climate.
+This Jupyter Notebook project presents a simplified approach to climate modeling framework that explores the intricate interactions between various key environmental factors over an extended timeframe of 1000 years. By incorporating a robust Runge-Kutta numerical method, Navier-Stokes Equation, CO2-Temperature Feedback, and Bayesian Parameter Estimation, the simulation delves into the mutual influences of greenhouse gas concentrations, solar radiation variations, ice melting dynamics, ocean circulation patterns, and wind effects on Earth's climate.
 
 The primary goals of this project are as follows:
 
